@@ -1,3 +1,4 @@
+package codigo;
 import java.util.Scanner;
 
 public class ex3 {

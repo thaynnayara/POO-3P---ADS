@@ -24,4 +24,4 @@ public class codigo3 {
         System.out.println("Palavra: ", palavra);
         System.out.println("Valor: ", valor);
     }
-}
+}   
